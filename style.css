@@ -1,7 +1,21 @@
-header {text-align: center}
+h1 {
+    background-color: rgb(195, 195, 248);
+    padding: 20px;
+    text-align: center;
+    font-family: fantasy
+  }
+h2{
+    text-align: center;
+    font-family: fantasy
+}
+nav{
+    font-family: cursive
+}
+body {background-color: lavender}
 p {text-align: left;
-    background-color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif}
+    background-color: lavender;
+    font-family: cursive;
+    color: rgb(62, 62, 143)}
 div {padding-top: 50px;
     padding-bottom: 50px;
     padding-left: 50px;
